@@ -1,0 +1,15 @@
+.letter{ 
+
+  visibility: hidden;
+  animation: 5s swift-up ease-in-out forwards;
+  }
+
+  
+  @keyframes swift-up {
+    
+    to{ 
+
+       visibility: visible;
+    } 
+
+  }
